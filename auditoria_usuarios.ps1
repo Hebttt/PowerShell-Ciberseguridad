@@ -1,4 +1,6 @@
-﻿$usuarios = Get-LocalUser 
+﻿: # Editado por Hebttt el 08/16/2025
+
+$usuarios = Get-LocalUser 
 
 $sinLogon = @() 
 
